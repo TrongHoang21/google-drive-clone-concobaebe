@@ -13,12 +13,12 @@ import { collection, addDoc, doc , onSnapshot,getDocs } from "firebase/firestore
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAnaSuEOAxuC6xIswF5uRns8eTmlxK5tH4",
-  authDomain: "drive-clone-concobaebe.firebaseapp.com",
-  projectId: "drive-clone-concobaebe",
-  storageBucket: "drive-clone-concobaebe.appspot.com",
-  messagingSenderId: "1055587292620",
-  appId: "1:1055587292620:web:61d662819f35447f5ef969"
+  apiKey: "/",
+  authDomain: "/",
+  projectId: "/",
+  storageBucket: "/",
+  messagingSenderId: "/",
+  appId: "/"
 };
 
 // Initialize Firebase
